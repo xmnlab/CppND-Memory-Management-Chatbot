@@ -1,0 +1,5 @@
+*.o
+build/*
+*.json
+.bash_history
+.env
